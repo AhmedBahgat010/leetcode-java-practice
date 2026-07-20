@@ -18,5 +18,18 @@ containing the Java solution.
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0389-find-the-difference) |
 | [1768-merge-strings-alternately](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/1768-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
