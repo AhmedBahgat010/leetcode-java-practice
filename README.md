@@ -22,6 +22,7 @@ containing the Java solution.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0459-repeated-substring-pattern) |
 | [1768-merge-strings-alternately](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -41,4 +42,5 @@ containing the Java solution.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
