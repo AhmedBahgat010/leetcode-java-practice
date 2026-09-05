@@ -47,5 +47,10 @@ containing the Java solution.
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
