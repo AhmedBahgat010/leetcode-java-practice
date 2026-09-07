@@ -49,8 +49,10 @@ containing the Java solution.
 | ------- |
 | [0066-plus-one](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0283-move-zeroes) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0066-plus-one) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/1822-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
