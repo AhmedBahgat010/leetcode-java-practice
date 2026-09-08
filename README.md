@@ -39,6 +39,7 @@ containing the Java solution.
 | ------- |
 | [0242-valid-anagram](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0389-find-the-difference) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## String Matching
 |  |
 | ------- |
@@ -49,6 +50,7 @@ containing the Java solution.
 | ------- |
 | [0066-plus-one](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0283-move-zeroes) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Math
 |  |
