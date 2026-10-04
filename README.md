@@ -31,6 +31,7 @@ containing the Java solution.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0389-find-the-difference) |
@@ -52,6 +53,7 @@ containing the Java solution.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0896-monotonic-array) |
