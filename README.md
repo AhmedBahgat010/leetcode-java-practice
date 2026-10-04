@@ -62,6 +62,7 @@ containing the Java solution.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0066-plus-one) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/1822-sign-of-the-product-of-an-array) |
