@@ -1,8 +1,8 @@
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        if (nums.length == 2)
-            return new int[] { 0, 1 };
+        // if (nums.length == 2)
+        //     return new int[] { 0, 1 };
    
         int[] result = new int[2];
 
