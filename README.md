@@ -21,6 +21,7 @@ containing the Java solution.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0242-valid-anagram) |
@@ -54,6 +55,7 @@ containing the Java solution.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0896-monotonic-array) |
@@ -66,4 +68,8 @@ containing the Java solution.
 | [0013-roman-to-integer](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0066-plus-one) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/1822-sign-of-the-product-of-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
