@@ -36,15 +36,18 @@ containing the Java solution.
 | [0013-roman-to-integer](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## String Matching
 |  |
@@ -58,6 +61,7 @@ containing the Java solution.
 | [0014-longest-common-prefix](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0283-move-zeroes) |
+| [0645-set-mismatch](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0645-set-mismatch) |
 | [0896-monotonic-array](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/0896-monotonic-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AhmedBahgat010/leetcode-java-practice/tree/master/1822-sign-of-the-product-of-an-array) |
