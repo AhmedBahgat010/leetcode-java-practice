@@ -14,13 +14,10 @@ class Solution {
             }
         }
 
-        // هل A فاز؟
         if (isWinner(board, 1)) return "A";
 
-        // هل B فاز؟
         if (isWinner(board, 2)) return "B";
 
-        // مفيش فايز
         if (moves.length == 9) return "Draw";
         return "Pending";
     }
